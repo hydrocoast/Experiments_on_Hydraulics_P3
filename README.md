@@ -22,7 +22,7 @@ Terminalが利用できるLinux系OSやMac OS，WindowsではWSL2(Windows Subsys
 
 
 ## Usage
-[Tags](/tags)にある zip または tar.gz 形式のファイルをダウンロード・解凍してください．  
+Releases の tag から zip または tar.gz 形式のファイルをダウンロード・解凍してください．  
 GitHub のアカウントを持っている人は，このレポジトリをforkした後にgit cloneすることで，自分の開発環境でのバージョン管理が可能です．
 ```shell
 git clone git@github.com:username/repositoryname
