@@ -1,5 +1,5 @@
 # Experiments on Hydraulics P3 (Coastal Engineering)  
-[here](/README.md) for the Japanese version  
+[Here](/README.md) for the Japanese version  
 This repository contains the materials for the assignments of P3 (Coastal Engineering), which is a part of the class "Experiments on Hydraulics" in the Undergraduate School of Civil, Environmental and Resources Engineering, Faculty of Engineering, Kyoto University.  
 Please refer to the guidance materials distributed to students and the instruction document for information on the course as a whole and other assignments.  
 
@@ -10,10 +10,10 @@ This repository is intended for use on a terminal in Linux-based OS, Mac OS, or 
 
 
 ## Contents
-- [Test](/test) Test the environment on your computer  
-- [Exercise 1](/ex_small_amplitude_waves) Small wave amplitude theory  
-- [Exercise 2](/ex_waveeq_1d) 1D wave equation with a constant wave speed
-- [Exercise 3](/ex_longwave_1d) Long wave run-up on a slope and wave shoaling
+- [Test](/test): test the environment on your computer  
+- [Exercise 1](/ex_small_amplitude_waves): small wave amplitude theory  
+- [Exercise 2](/ex_waveeq_1d): 1D wave equation with a constant wave speed
+- [Exercise 3](/ex_longwave_1d): long wave run-up on a slope and wave shoaling
 
 
 ## Requirements

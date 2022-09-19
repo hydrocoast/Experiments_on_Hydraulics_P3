@@ -1,5 +1,5 @@
 # 水理実験 P3 プログラム実習（海岸）
-[here](/README-en.md) for the English version  
+[Here](/README-en.md) for the English version  
 このレポジトリは，京都大学工学部地球工学科　土木コース科目「水理実験」の一部として行われるプログラム実習（海岸）の課題資料です．  
 科目全体や他の課題については，履修者に配布されるガイダンス資料や水理実験指導書を参照してください．  
 
