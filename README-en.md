@@ -1,7 +1,7 @@
 # Experiments on Hydraulics P3 (Coastal Engineering)  
 [Here](/README.md) for the Japanese version  
 This repository contains the materials for the assignments of P3 (Coastal Engineering), which is a part of the class "Experiments on Hydraulics" in the Undergraduate School of Civil, Environmental and Resources Engineering, Faculty of Engineering, Kyoto University.  
-Please refer to the guidance materials distributed to students and the instruction document for information on the course as a whole and other assignments.  
+Please refer to the guidance materials distributed to students and the instruction document for general information on this class and other assignments.  
 
 You may use it for any purpose other than the class under the MIT license.  
 However, please note that this repository deliberately contains incomplete codes in some parts because of students' assignments.  
