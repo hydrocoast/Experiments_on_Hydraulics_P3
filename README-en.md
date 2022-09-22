@@ -25,6 +25,7 @@ This repository is intended for use on a terminal in Linux-based OS, Mac OS, or 
 
 ## Usage
 Download and unzip the `*.zip` or `*.tar.gz` file from the Releases page.  
+**The same material as this repository will be distributed in PandA for students enrolled in this class, so there is no need to download it additionally.**
 If you have a GitHub account, you can fork this repository and git clone it to manage the version in your development environment.
 ```shell
 git clone git@github.com:username/repositoryname
