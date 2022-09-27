@@ -51,6 +51,6 @@ git clone https://github.com/username/repositoryname
 
 ## Author
 
-Takuya Miyashita (miyashita.takuya.4w $AT$ kyoto-u.ac.jp)
-Disaster Prevention Research Institute, Kyoto University
+Takuya Miyashita (miyashita.takuya.4w $AT$ kyoto-u.ac.jp)  
+Disaster Prevention Research Institute, Kyoto University  
 Latest update: 2022 September
