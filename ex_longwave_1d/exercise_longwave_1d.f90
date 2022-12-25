@@ -161,14 +161,16 @@ program exercise_longwave1d
         eta(1,j+1) = eta(1,j+1) + 2.0d0*(eta_in(j+1)-eta_in(j))
         
         ! --- total depth
-        D(:,j+1) = eta(:,j+1) + h(:)        
+        D(:,j+1) = eta(:,j+1) + h(:)
         ! --- error checker
-        if (D(i,j+1) /= D(i,j+1)) goto 98
-        ! --- tolerance
-        if (abs(D(i,j+1)) <= epsilon(D(i,j+1))) then
-            D(i,j+1) = h(i)
-            eta(i,j+1) = 0.0d0
-        endif
+        do i = 1,nx
+            if (D(i,j+1) /= D(i,j+1)) goto 98
+            ! --- tolerance
+            if (abs(D(i,j+1)) <= epsilon(D(i,j+1))) then
+               D(i,j+1) = h(i)
+               eta(i,j+1) = 0.0d0
+            endif
+        enddo
 
         ! --- record if max
         do i = 1,nx
