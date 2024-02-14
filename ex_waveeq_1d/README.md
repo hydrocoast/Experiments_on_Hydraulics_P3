@@ -15,7 +15,7 @@ The one-dimensional wave equation can be expressed as follows:
 $$\frac{\partial ^2 \eta}{\partial t^2} - c^2 \frac{\partial ^2 \eta}{\partial x^2} = 0$$
 where $\eta$ is the surface elevation, $t$ represents time, $x$ represents space or position, and $c$ is the wave speed (constant, non-negative, real). The central differencing in both time and space of this equation yields:
 $$\eta_i^{j+1} = 2(1-\lambda^2)\eta_i^j + \lambda^2(\eta_{i+1}^j+\eta_{i-1}^j) - \eta_i^{j-1}$$
-where the subscript $i$ represents the $i$-th element of the discretized space with $\Delta x$, the superscript $j$ represents the $i$-th element of the discretized time with $\Delta t$, and $\lambda$ is a constant value defined as:
+where the subscript $i$ represents the $i$-th element of the discretized space with $\Delta x$, the superscript $j$ represents the $j$-th element of the discretized time with $\Delta t$, and $\lambda$ is a constant value defined as:
 $$\lambda = \left( c\frac{\Delta t}{\Delta x}\right)^2$$
 The right hand side of the discretized equation contains only known values; the surface height at the next time step $\eta_i^{j+1}$ can be obtained with this equation. 
 
