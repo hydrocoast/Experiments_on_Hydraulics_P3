@@ -24,5 +24,5 @@ $$w = \frac{\partial \phi}{\partial z} = a\omega \frac{\sinh k(z+h)}{\sinh kh} \
 
 
 - Particle trajectory
-$$\frac{(x-x_0)^2}{\left(a \frac{\cosh k(z_0+h)}{\sinh kh} \right)^2} + \frac{(z-z_0)^2}{\left(a \frac{\sinh k(z_0+h)}{\sinh kh} \right)^2}  = 0$$
+$$\frac{(x-x_0)^2}{\left(a \frac{\cosh k(z_0+h)}{\sinh kh} \right)^2} + \frac{(z-z_0)^2}{\left(a \frac{\sinh k(z_0+h)}{\sinh kh} \right)^2}  = 1$$
 
